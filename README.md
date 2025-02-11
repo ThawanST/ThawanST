@@ -2,9 +2,6 @@
 <!-- Seção de Título -->
 <h1 align="left">Olá!!! Eu sou o Thawan Souza</h1>
 
-![Snake animation](https://github.com/ThawanST/ThawanST/blob/output/github-contribution-grid-snake.svg)
-
-
 <p align="left">
 <a href="https://www.instagram.com/Thaw_st/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
