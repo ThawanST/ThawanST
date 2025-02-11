@@ -29,8 +29,6 @@ Estou sempre à procura de novos desafios e oportunidades para aprender, crescer
 Cada linha de código é uma chance de fazer algo incrível, e eu mal vejo a hora de colocar minhas habilidades em prática no próximo grande projeto! 🚀
 </p>
 
-<br></br>
-
 
 <!-- Seção de Subtítulo -->
 <h2 align="left">💻 Tecnologias & Ferramentas</h2>
@@ -62,8 +60,6 @@ Cada linha de código é uma chance de fazer algo incrível, e eu mal vejo a hor
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 
 </div>
-
-<br></br>
 
 <!-- Seção de Estatísticas do Git -->
 <h2 align="left">📊 Estatísticas do Git</h2>
